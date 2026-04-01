@@ -1,2 +1,8 @@
-# leetcode-solutions
-My Leetcode solution  in C++
+# LeetCode Solutions
+
+This repository contains my LeetCode solutions in C++.
+
+## Structure
+- easy
+- medium
+- hard
