@@ -1,5 +1,5 @@
-// Problem: Robot Collisions
-// Difficulty: Hard
+// Robot Collisions
+// Hard
 // https://leetcode.com/problems/robot-collisions/description/
 
 class Solution {
